@@ -1,0 +1,54 @@
+1: Harris Academy Bermondsey, 131747
+2: Harris Academy Merton, 131897
+3: Harris Girls' Academy East Dulwich, 132711
+4: Harris Academy Peckham, 134225
+5: Harris Lowe Academy Willesden, 134226
+6: Harris Academy South Norwood, 135249
+7: Harris City Academy Crystal Palace, 135311
+8: Harris Academy Falconwood, 135677
+9: Harris Boys' Academy East Dulwich, 135816
+10: Harris Academy Purley, 135955
+11: Harris Academy Beckenham, 137121
+12: Harris Girls Academy Bromley, 137379
+13: Harris Primary Academy Peckham Park, 137413
+14: Harris Academy Chafford Hundred, 137549
+15: Harris Primary Academy Chafford Hundred, 138349
+16: Harris Primary Academy Coleraine Park, 138446
+17: Harris Primary Academy Philip Lane, 138447
+18: Harris Academy Greenwich, 138449
+19: Harris Academy Morden, 138495
+20: Harris Primary Academy Kenley, 139640
+21: Harris Primary Academy Kent House, 139678
+22: Harris Academy Chobham, 139703
+23: Harris Aspire Academy, 139829
+24: Harris Primary Academy Benson, 139905
+25: Harris Junior Academy Carshalton, 139965
+26: Harris Primary Academy Crystal Palace, 139966
+27: Harris Primary Academy Haling Park, 140208
+28: Harris Primary Academy Purley Way, 140395
+29: Harris Primary Academy Beckenham, 140934
+30: Harris Academy Tottenham, 140935
+31: Harris Primary Academy Shortlands, 140936
+32: Harris Primary Academy East Dulwich, 140937
+33: Harris Primary Academy Mayflower, 140938
+34: Harris Westminster Sixth Form, 140939
+35: Harris Invictus Academy Croydon, 140952
+36: Harris Academy Battersea, 140985
+37: Harris Primary Academy Merton, 141143
+38: Harris Primary Academy Orpington, 143426
+39: Harris Academy Orpington, 143427
+40: Harris Academy Rainham, 143428
+41: Harris Academy Sutton, 143706
+42: Harris Rainham Sixth Form, 143759
+43: Harris Primary Academy Beckenham Green, 144287
+44: Harris Academy Riverside, 144750
+45: Harris Academy St John's Wood, 145126
+46: Harris Garrard Academy, 145140
+47: Harris Professional Skills Sixth Form, 145197
+48: Harris Academy Wimbledon, 145860
+49: Harris Academy Ockendon , 147537
+50: Harris Academy Clapham , 147543
+51: Harris Primary Academy Croydon, 148352
+52: Harris Clapham Sixth Form, 148555
+53: Harris Science Academy East London , 149431
+54: Harris Academy Beulah Hill, 150055
